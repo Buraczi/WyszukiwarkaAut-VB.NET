@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="AdminUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AdminUser</Value>
+    </Setting>
+    <Setting Name="RegularUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RegularUser</Value>
+    </Setting>
+    <Setting Name="AdminPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1111</Value>
+    </Setting>
+    <Setting Name="RegularPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
